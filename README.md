@@ -1,4 +1,4 @@
-# finalproject
+# Final Project
 
 Project 3 of CS50 Web Programming with Python and JavaScript
 
